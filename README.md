@@ -1,4 +1,4 @@
-markdown_content = """# AirClipboard — Swift/macOS (Public Sample Code)
+# AirClipboard — Swift/macOS (Public Sample Code)
 
 This repository contains **public sample code** from the development of [AirClipboard](https://airclipboard.app), a fully native and highly polished clipboard manager for macOS.
 
@@ -48,6 +48,13 @@ README.md
 
 ---
 
+## Screenshots
+<img src="https://ariel.works/projects/assets/img/airclipboard-app.png" alt="AirClipboard main window" width="400"/>
+&nbsp;
+<img src="https://ariel.works/projects/assets/img/dark-light-mode-airclipboard.png" alt="AirClipboard dark and light mode" width="400"/>
+
+---
+
 ## Quick sample
 
 Here’s an example of how clipboard history logic is managed:
@@ -67,11 +74,7 @@ func addItem(_ item: ClipboardItem) {
     self.history = pinned + trimmed
     storage.saveHistory(history)
 }
-## Screenshots
-
-[<img src="https://ariel.works/projects/assets/img/airclipboard-app.png" alt="AirClipboard main window" width="400"/>](https://ariel.works/projects/assets/img/airclipboard-app.png)  
-&nbsp;  
-[<img src="https://ariel.works/projects/assets/img/dark-light-mode-airclipboard.png" alt="AirClipboard dark and light mode" width="400"/>](https://ariel.works/projects/assets/img/dark-light-mode-airclipboard.png)
+```
 
 ---
 
@@ -81,3 +84,5 @@ func addItem(_ item: ClipboardItem) {
 - For questions, collaboration, or private code review, reach out to me!
 
 **Thank you for checking out this project!**
+
+---
