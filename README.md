@@ -1,6 +1,3 @@
-from pathlib import Path
-
-# Conteúdo do README.md fornecido pelo Ariel
 markdown_content = """# AirClipboard — Swift/macOS (Public Sample Code)
 
 This repository contains **public sample code** from the development of [AirClipboard](https://airclipboard.app), a fully native and highly polished clipboard manager for macOS.
