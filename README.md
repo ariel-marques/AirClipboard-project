@@ -80,7 +80,7 @@ func addItem(_ item: ClipboardItem) {
 
 ## Want to know more?
 
-- Full app, design process, and UX/UI rationale available at [ariel.works/airclipboard](https://ariel.works/airclipboard)  
+- Full app, design process, and UX/UI rationale available at [ariel.works/projects/airclipboard](https://ariel.works/projects/airclipboard)  
 - For questions, collaboration, or private code review, reach out to me!
 
 **Thank you for checking out this project!**
